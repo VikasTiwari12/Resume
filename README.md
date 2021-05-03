@@ -1,7 +1,6 @@
-# Resume
 # Vikas Tiwari
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.
-<!-- The (first) h1 will be used as the <title> of the HTML page -->
+
 
 ## EDUCATION :mortar_board:
 
