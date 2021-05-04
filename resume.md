@@ -2,7 +2,7 @@
 
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
-<h2 align="center"> :mortar_board: EDUCATIONAL BACKGROUND </h2>
+<h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
 
 <details close="close">
   <summary><b>Education Details </b></summary>
@@ -47,13 +47,13 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | High School | KAMLA UCHATTAR M. V. ALIGARH | 58.50 % | 2012|
 </details> 
 
-<h2 align="center"> :mortar_board: PROJECTS EXPOSURE </h2>
+<h2 align="center">  PROJECTS EXPOSURE 💡 </h2>
 
 <details close="close">
   <summary><b> PROJECTS DETAILS </b></summary>
   <ol><br/>
     <li>
-     <b> Student Portal 🔽</b>
+     <b> Student Portal 🔽 </b>
       </li>
     <br/>
     
@@ -61,8 +61,27 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | :------: | :------: | :------: | :------: |
 | Department Student Portal | HTML & CSS WordPress CMS | 01/2018 | 05/2018 |
 
+<br/>
+    <li>
+     <b> Fire Fighting Robo 🔽</b>
+      </li>
+    <br/>
+    
+| ***Project Name*** | ***Technology*** | ***Staring Date*** | ***Ending Date*** |
+| :------: | :------: | :------: | :------: |
+| Fire Fighting Robo | IOT, C | 01/2019 | 03/2019 |
 
+<br/>
+    <li>
+     <b> Infinite Runner 3D 🔽</b>
+      </li>
+    <br/>
+    
+| ***Project Name*** | ***Technology*** | ***Staring Date*** | ***Ending Date*** |
+| :------: | :------: | :------: | :------: |
+| Infinite Runner 3D | Unity, Maya, C# | 06/2020 | 12/2020 |
 
+</details>
 
 ~~~# EDUCATION :mortar_board:
 
