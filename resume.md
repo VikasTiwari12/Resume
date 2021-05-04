@@ -117,6 +117,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <details close="close">
   
 <summary><b> SELF DETAIlL </b></summary>
+
 | **Name:-** | Vikas Tiwari |    
 | :------ | :------: |  
 | **(DOB):-** | 30/11/1996 |  
