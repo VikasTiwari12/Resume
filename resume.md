@@ -15,9 +15,8 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
 | :------: | :------: | :------: | :------: |
 | Master of Computer Applications | KIET Group of Institutions,Ghaziabad | 66.67 % | 2018-2021 |
+
 <br/>
-
-
     <li>
      <b> 🔽GRADUATION 🔽</b>
       </li>
@@ -26,8 +25,25 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
 | :------: | :------: | :------: | :------: |
 | Bachelor of Computer Applications | GLA University, Mathura | 6.10 CGPA | 2015-2018 |
+<br/>
+    <li>
+     <b> 🔽INTERMEDIATE🔽</b>
+      </li>
+    <br/>  
+    
+| ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
+| :------: | :------: | :------: | :------: |
+| Intermediate | GOPIRAM PALIWAL INTER COLLEGE, ALIGARH | 52.60 % | 2015|
 
-
+<br/>
+    <li>
+     <b> 🔽HIGH SCHOOL🔽</b>
+      </li>
+    <br/>
+    
+| ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
+| :------: | :------: | :------: | :------: |
+| High School | KAMLA UCHATTAR M. V. ALIGARH | 58.50 % | 2012|
 
 
 
