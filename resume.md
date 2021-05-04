@@ -3,7 +3,8 @@
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
 <details>
-  <summary><h2 align="center"> Education Details :mortar_board: </h2></summary>
+  
+  <summary> <b align="center"> Education Details :mortar_board: </b> </summary>
   <ol><br/>
     <li>
      <b> POST GRADUATION 🔽</b>
