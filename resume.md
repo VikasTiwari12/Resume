@@ -85,13 +85,20 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <h2 align="center"> PROGRAMMING LANGUAGES :mortar_board: </h2>
 
-| ***Language Name*** | ***Experience*** |
+| ***Language Name*** | ***Experience LEVEL*** |
 | :------: | :------: |
 | C Language | Intermediate |
 | HTML | Intermediate |
 | CSS | Intermediate |
 | JAVA | Intermediate |
 | MARKDOWN | Intermediate |
+
+<h2 align="center"> TECHNICAL SKILLS :mortar_board: </h2>
+
+| ***NAME*** | ***Experience LEVEL*** |
+| :------: | :------: |
+| Internet of Things | Intermediate |
+| UNITY 3D | Beginner |
 
 ~~~# EDUCATION :mortar_board:
 
