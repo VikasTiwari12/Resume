@@ -113,9 +113,18 @@ To obtain the opportunity to work in a fun challenging working environment that 
 - Coordinator and member of Departmental Hobby club.
 - Coordinator in National Sports Fest "Maitree" at University Level.
 
+<h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
+<details close="close">
+  
+<summary><b>Education Details :mortar_board:</b></summary> 
 
-
-
+  <table>
+  <tc>
+    <th>Nmae</th>
+    <td> fregreg </td>
+    <td> fvf </td>
+    </tc>
+  </table>
 ~~~# EDUCATION :mortar_board:
 
 
