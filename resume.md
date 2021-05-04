@@ -25,6 +25,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
 | :------: | :------: | :------: | :------: |
 | Bachelor of Computer Applications | GLA University, Mathura | 6.10 CGPA | 2015-2018 |
+
 <br/>
     <li>
      <b> 🔽INTERMEDIATE🔽</b>
@@ -45,9 +46,8 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | :------: | :------: | :------: | :------: |
 | High School | KAMLA UCHATTAR M. V. ALIGARH | 58.50 % | 2012|
 
-<br/>
+<h1>jkvbjvbfd</h1>
 
-<h2 align="center"> :mortar_board: EDUCATIONAL BACKGROUND </h2>
 
 
 
