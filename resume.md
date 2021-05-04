@@ -102,10 +102,18 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <h2 align="center"> WORKSHOP/SEMINAR :mortar_board: </h2>
 
-- Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.  
-- Attended workshop on Cloud Computing.  
-- Attended the guest lecture on cloud given by **Microsoft's CEO (Mr.Magnus Martensson)**.   
-- Attended a workshop on Big Data & Hadoop.   
+ 
+| Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**. |  
+| ------ |  
+
+| Attended workshop on Cloud Computing. |  
+| ------ |
+
+| Attended the guest lecture on cloud given by **Microsoft's CEO (Mr.Magnus Martensson)**. |  
+| ------ | 
+
+| Attended a workshop on Big Data & Hadoop. |   
+| ------ | 
 
 <h2 align="center"> ACHIEVEMENTS :mortar_board: </h2>
 
@@ -129,7 +137,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <details close="close">
   
-<summary><b> PARENTS DETAILS DETAIL </b></summary>
+<summary><b> PARENTS DETAILS </b></summary>
 
 
 | **Father Name:-** | **Mr.** Anil Tiwari | **Mother Name:-** | **Mrs.** Radha Tiwari |  
@@ -140,6 +148,8 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh | **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh | 
 | **Correspondence Address:-**| same as permanent | **Correspondence Address:-**| same as permanent |
 </details>
+
+
   
 ~~~# EDUCATION :mortar_board:
 
