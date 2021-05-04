@@ -1,8 +1,26 @@
-# Vikas Tiwari
+<h1 align="center">Vikas Tiwari</h1>  
+
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.
 
+<h2align="center"> ↙️EDUCATIONAL BACKGROUND </h2>
+<!-- Education Details of Vikas -->
+<details close="close">
+  <summary><b>Education Tree </b></summary>
+  <ol><br/>
+    <li>
+      🔽GRADUATION 🔽
+      </li>
+    <br/>
+    
+| ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
+| :------: | :------: | :------: | :------: |
+| Bachelor of Computer Applications | GLA University, Mathura | 6.10 CGPA | 2015-2018 |
+<br/>
 
-## EDUCATION :mortar_board:
+
+
+
+~~~# EDUCATION :mortar_board:
 
 
 ### Master of Computer Applications
