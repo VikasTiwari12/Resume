@@ -4,9 +4,9 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <h2 align="center"> ↙️EDUCATIONAL BACKGROUND </h2>
 
-<!-- Education Details of Vikas -->
+
 <details close="close">
-  <summary><b>Education Tree </b></summary>
+  <summary><b>Education Details </b></summary>
   <ol><br/>
     <li>
       🔽GRADUATION 🔽
