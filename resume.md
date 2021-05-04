@@ -8,7 +8,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
   <summary><b>Education Details </b></summary>
   <ol><br/>
     <li>
-     <b> 🔽 POST GRADUATION 🔽</b>
+     <b> POST GRADUATION 🔽</b>
       </li>
     <br/>
     
@@ -18,7 +18,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <br/>
     <li>
-     <b> 🔽GRADUATION 🔽</b>
+     <b>GRADUATION 🔽</b>
       </li>
     <br/>
     
@@ -28,7 +28,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <br/>
     <li>
-     <b> 🔽INTERMEDIATE🔽</b>
+     <b> INTERMEDIATE🔽</b>
       </li>
     <br/>  
     
@@ -38,7 +38,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <br/>
     <li>
-     <b> 🔽HIGH SCHOOL🔽</b>
+     <b> HIGH SCHOOL🔽</b>
       </li>
     <br/>
     
@@ -47,10 +47,19 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | High School | KAMLA UCHATTAR M. V. ALIGARH | 58.50 % | 2012|
 </details> 
 
-<h2 align="center"> :mortar_board: EDUCATIONAL BACKGROUND </h2>
+<h2 align="center"> :mortar_board: PROJECTS EXPOSURE </h2>
 
-
-
+<details close="close">
+  <summary><b> PROJECTS DETAILS </b></summary>
+  <ol><br/>
+    <li>
+     <b> Student Portal 🔽</b>
+      </li>
+    <br/>
+    
+| ***Project Name*** | ***Technology*** | ***Staring Date*** | ***Ending Date*** |
+| :------: | :------: | :------: | :------: |
+| Department Student Portal | HTML & CSS WordPress CMS | 01/2018 | 05/2018 |
 
 
 
