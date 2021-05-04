@@ -116,7 +116,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <h2 align="center">  PERSONAL DETAILS </h2>
 <details close="close">
   
-<summary><b> Self Detail </b></summary>
+<summary><b> SELF DETAIlL </b></summary>
 
 | **Name:-** | Vikas Tiwari |  
 | :------ | :------: |  
@@ -129,7 +129,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <details close="close">
   
-<summary><b> PARENTS DETAILS Detail </b></summary>
+<summary><b> PARENTS DETAILS DETAIL </b></summary>
 
 
 | **Father Name:-** | **Mr.** Anil Tiwari | **Mother Name:-** | **Mrs.** Radha Tiwari |  
@@ -139,6 +139,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | **Contact No:-** | ********** | **Contact No:-** | ********** | 
 | **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh | **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh | 
 | **Correspondence Address:-**| same as permanent | **Correspondence Address:-**| same as permanent |
+</details>
   
 ~~~# EDUCATION :mortar_board:
 
