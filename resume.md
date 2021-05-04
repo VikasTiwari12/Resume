@@ -4,10 +4,20 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <h2 align="center"> :mortar_board: EDUCATIONAL BACKGROUND </h2>
 
-
 <details close="close">
-  <summary><h3>Education Details </h3></summary>
+  <summary><b>Education Details </b></summary>
   <ol><br/>
+    <li>
+     <b> 🔽 POST GRADUATION 🔽</b>
+      </li>
+    <br/>
+    
+| ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
+| :------: | :------: | :------: | :------: |
+| Master of Computer Applications | KIET Group of Institutions,Ghaziabad | 66.67 % | 2018-2021 |
+<br/>
+
+
     <li>
      <b> 🔽GRADUATION 🔽</b>
       </li>
@@ -16,7 +26,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
 | :------: | :------: | :------: | :------: |
 | Bachelor of Computer Applications | GLA University, Mathura | 6.10 CGPA | 2015-2018 |
-<br/>
+
 
 
 
