@@ -46,7 +46,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | :------: | :------: | :------: | :------: |
 | High School | KAMLA UCHATTAR M. V. ALIGARH | 58.50 % | 2012|
 
-<h1>jkvbjvbfd</h1>
+
 
 
 
