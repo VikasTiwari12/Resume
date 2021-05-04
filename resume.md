@@ -2,7 +2,7 @@
 
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
-<h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
+<h3 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h3>
 <details close="close">
   
 <summary><b>Education Details :mortar_board:</b></summary>  
@@ -47,7 +47,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | High School | KAMLA UCHATTAR M. V. ALIGARH | 58.50 % | 2012|
 </details> 
 
-<h2 align="center">  PROJECTS EXPOSURE 💡 </h2>
+<h3 align="center">  PROJECTS EXPOSURE 💡 </h3>
 
 <details close="close">
   <summary><b> PROJECTS DETAILS </b></summary>
@@ -83,7 +83,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 </details>
 
-<h2 align="center"> PROGRAMMING LANGUAGES :mortar_board: </h2>
+<h3 align="center"> PROGRAMMING LANGUAGES :mortar_board: </h3>
 
 | ***Language Name*** | ***Experience Level*** |
 | :------: | :------: |
@@ -93,14 +93,14 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | JAVA | Intermediate |
 | MARKDOWN | Intermediate |
 
-<h2 align="center"> TECHNICAL SKILLS :mortar_board: </h2>
+<h3 align="center"> TECHNICAL SKILLS :mortar_board: </h3>
 
 | ***Name*** | ***Experience Level*** |
 | :------: | :------: |
 | Internet of Things | Intermediate |
 | UNITY 3D | Beginner |
 
-<h2 align="center"> WORKSHOP/SEMINAR :mortar_board: </h2>
+<h3 align="center"> WORKSHOP/SEMINAR :mortar_board: </h3>
 
  
 > - Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.  
@@ -109,13 +109,13 @@ To obtain the opportunity to work in a fun challenging working environment that 
 > - Attended a workshop on Big Data & Hadoop.     
  
 
-<h2 align="center"> ACHIEVEMENTS :mortar_board: </h2>
+<h3 align="center"> ACHIEVEMENTS :mortar_board: </h3>
 
 > - Secured third position at National Project Completion "Karmana" held at KIET College.
 > - Coordinator and member of Departmental Hobby club.
 > - Coordinator in National Sports Fest "Maitree" at University Level.
 
-<h2 align="center">  PERSONAL DETAILS </h2>
+<h3 align="center">  PERSONAL DETAILS </h3>
 <details close="close">
   
 <summary><b> SELF DETAIlL </b></summary>
