@@ -111,9 +111,9 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <h2 align="center"> ACHIEVEMENTS :mortar_board: </h2>
 
-- Secured third position at National Project Completion "Karmana" held at KIET College.
-- Coordinator and member of Departmental Hobby club.
-- Coordinator in National Sports Fest "Maitree" at University Level.
+> - Secured third position at National Project Completion "Karmana" held at KIET College.
+> - Coordinator and member of Departmental Hobby club.
+> - Coordinator in National Sports Fest "Maitree" at University Level.
 
 <h2 align="center">  PERSONAL DETAILS </h2>
 <details close="close">
