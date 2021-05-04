@@ -1,8 +1,9 @@
 <h1 align="center">Vikas Tiwari</h1>  
 
-To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.
+To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
-<h2align="center"> ↙️EDUCATIONAL BACKGROUND </h2>
+<h2 align="center"> ↙️EDUCATIONAL BACKGROUND </h2>
+
 <!-- Education Details of Vikas -->
 <details close="close">
   <summary><b>Education Tree </b></summary>
