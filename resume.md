@@ -4,7 +4,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <details>
   
-  <summary> <b align="center"> Education Details :mortar_board: </b> </summary>
+<h2 align="center"><summary> Education Details :mortar_board: </summary> </h2> 
   <ol><br/>
     <li>
      <b> POST GRADUATION 🔽</b>
@@ -83,7 +83,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 </details>
 
 ~~~# EDUCATION :mortar_board:
-
+<h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
 
 ### Master of Computer Applications
 - KIET Group of Institutions,Ghaziabad  
