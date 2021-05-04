@@ -113,18 +113,33 @@ To obtain the opportunity to work in a fun challenging working environment that 
 - Coordinator and member of Departmental Hobby club.
 - Coordinator in National Sports Fest "Maitree" at University Level.
 
-<h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
+<h2 align="center">  PERSONAL DETAILS </h2>
 <details close="close">
   
-<summary><b>Education Details :mortar_board:</b></summary> 
+<summary><b> Self Detail </b></summary>
 
-  <table>
-  <tc>
-    <th>Nmae</th>
-    <td> fregreg </td>
-    <td> fvf </td>
-    </tc>
-  </table>
+| **Name:-** | Vikas Tiwari |  
+| :------ | :------: |  
+| **(DOB):-** | 30/11/1996 |  
+| **Blood Group:-** | B ***+ve*** |  
+| **Contact No:-** | 7830859005 |  
+| **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh |  
+| **Correspondence Address:-**| same as permanent |
+</details>
+
+<details close="close">
+  
+<summary><b> PARENTS DETAILS Detail </b></summary>
+
+
+| **Father Name:-** | **Mr.** Anil Tiwari | **Mother Name:-** | **Mrs.** Radha Tiwari |  
+| :------ | :------: | :------ | :------: | 
+| **(DOB):-** | DD/MM/YYYY | **(DOB):-** | DD/MM/YYYY |  
+| **Blood Group:-** | B ***+ve*** | **Blood Group:-** | B ***+ve*** | 
+| **Contact No:-** | ********** | **Contact No:-** | ********** | 
+| **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh | **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh | 
+| **Correspondence Address:-**| same as permanent | **Correspondence Address:-**| same as permanent |
+  
 ~~~# EDUCATION :mortar_board:
 
 
