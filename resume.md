@@ -50,7 +50,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <h3 align="center">  PROJECTS EXPOSURE 💡 </h3>
 
 <details close="close">
-  <summary><b> PROJECTS DETAILS </b></summary>
+  <summary><b> PROJECTS DETAILS💡 </b></summary>
   <ol><br/>
     <li>
      <b> Student Portal 🔽 </b>
