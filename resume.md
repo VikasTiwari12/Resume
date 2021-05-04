@@ -2,9 +2,10 @@
 
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
+<h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
 <details close="close">
   
-<h2 align="center"><summary> Education Details :mortar_board: </summary> </h2> 
+<summary><b>Education Details :mortar_board:</b></summary>  
   <ol><br/>
     <li>
      <b> POST GRADUATION 🔽</b>
