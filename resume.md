@@ -100,6 +100,8 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | Internet of Things | Intermediate |
 | UNITY 3D | Beginner |
 
+> #### The quarterly results look great!
+
 ~~~# EDUCATION :mortar_board:
 
 
