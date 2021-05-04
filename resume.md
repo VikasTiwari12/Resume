@@ -85,7 +85,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <h2 align="center"> PROGRAMMING LANGUAGES :mortar_board: </h2>
 
-| ***Language Name*** | ***Experience LEVEL*** |
+| ***Language Name*** | ***Experience Level*** |
 | :------: | :------: |
 | C Language | Intermediate |
 | HTML | Intermediate |
@@ -95,17 +95,18 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <h2 align="center"> TECHNICAL SKILLS :mortar_board: </h2>
 
-| ***NAME*** | ***Experience LEVEL*** |
+| ***Name*** | ***Experience Level*** |
 | :------: | :------: |
 | Internet of Things | Intermediate |
 | UNITY 3D | Beginner |
 
 <h2 align="center"> WORKSHOP/SEMINAR :mortar_board: </h2>
 
-- Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.    
-- Attended workshop on Cloud Computing.   
-- Attended the guest lecture on cloud given by **Microsoft's CEO (Mr.Magnus Martensson)**.    
-- Attended a workshop on Big Data & Hadoop 
+|  Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**. |
+| ------ |
+> Attended workshop on Cloud Computing.   
+> Attended the guest lecture on cloud given by **Microsoft's CEO (Mr.Magnus Martensson)**.    
+> Attended a workshop on Big Data & Hadoop 
 
 
 ~~~# EDUCATION :mortar_board:
