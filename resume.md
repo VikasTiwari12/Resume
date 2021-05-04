@@ -45,6 +45,11 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | :------: | :------: | :------: | :------: |
 | High School | KAMLA UCHATTAR M. V. ALIGARH | 58.50 % | 2012|
 
+<br/>
+
+<h2 align="center"> :mortar_board: EDUCATIONAL BACKGROUND </h2>
+
+
 
 
 ~~~# EDUCATION :mortar_board:
