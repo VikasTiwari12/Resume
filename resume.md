@@ -83,8 +83,18 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 </details>
 
+<h2 align="center"> PROGRAMMING LANGUAGES :mortar_board: </h2>
+
+| ***Language Name*** | ***Experience*** |
+| :------: | :------: |
+| C Language | Intermediate |
+| HTML | Intermediate |
+| CSS | Intermediate |
+| JAVA | Intermediate |
+| MARKDOWN | Intermediate |
+
 ~~~# EDUCATION :mortar_board:
-<h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
+
 
 ### Master of Computer Applications
 - KIET Group of Institutions,Ghaziabad  
