@@ -1,4 +1,4 @@
-<h1 align="center"> Vikas Tiwari</h1>  
+# Vikas Tiwari  
 
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
