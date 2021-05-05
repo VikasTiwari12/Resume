@@ -64,7 +64,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <h2 align="center"> PROGRAMMING LANGUAGES </h2>
 <details close="close">
- <summary align="center"> ⚙️ </summary>
+ <summary> ⚙️ </summary>
   <br/>
   
 | ***Language Name*** | ***Experience Level*** |
