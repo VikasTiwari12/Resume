@@ -62,27 +62,32 @@ To obtain the opportunity to work in a fun challenging working environment that 
 </details>
 
 
-<h2 align="center"> PROGRAMMING LANGUAGES </h2>
+<h2 align="center"> SKILLS </h2>
 <details close="close">
- <summary> ⚙️ </summary>
+ <summary> Programming Languages ⚙️ </summary>
   <br/>
   
-| ***Language Name*** | ***Experience Level*** |
+| ***Language Name*** | ***Experience Level*** |TECHNICAL SKILLS
 | :------ | :------: |
 | C Language | Intermediate |
 | HTML | Intermediate |
 | CSS | Intermediate |
 | JAVA | Intermediate |
 | MARKDOWN | Intermediate |
-
 </details>
 
-<h2 align="center"> TECHNICAL SKILLS </h2>
+
+<details close="close">
+<summary> TECHNICAL SKILLS⚙️ </summary>
+
+
 
 | ***Name*** | ***Experience Level*** |
 | :------ | :------: |
 | Internet of Things | Intermediate |
 | UNITY 3D | Beginner |
+
+</details>
 
 <h2 align="center"> WORKSHOP/SEMINAR :memo: </h2>
 
