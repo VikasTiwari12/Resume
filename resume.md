@@ -1,5 +1,4 @@
 # Vikas Tiwari  
-
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
 <h3 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h3>
@@ -83,7 +82,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 </details>
 
-<h3 align="center"> PROGRAMMING LANGUAGES :mortar_board: </h3>
+<h3 align="center"> PROGRAMMING LANGUAGES </h3>
 
 | ***Language Name*** | ***Experience Level*** |
 | :------: | :------: |
@@ -93,14 +92,14 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | JAVA | Intermediate |
 | MARKDOWN | Intermediate |
 
-<h3 align="center"> TECHNICAL SKILLS :mortar_board: </h3>
+<h3 align="center"> TECHNICAL SKILLS </h3>
 
 | ***Name*** | ***Experience Level*** |
 | :------: | :------: |
 | Internet of Things | Intermediate |
 | UNITY 3D | Beginner |
 
-<h3 align="center"> WORKSHOP/SEMINAR :mortar_board: </h3>
+<h3 align="center"> WORKSHOP/SEMINAR :memo: </h3>
 
  
 > - Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.  
@@ -109,38 +108,38 @@ To obtain the opportunity to work in a fun challenging working environment that 
 > - Attended a workshop on Big Data & Hadoop.     
  
 
-<h3 align="center"> ACHIEVEMENTS :mortar_board: </h3>
+<h3 align="center"> ACHIEVEMENTS :trophy: </h3>
 
-> - Secured third position at National Project Completion "Karmana" held at KIET College.
+> - Secured 🥉**Third position** at National Project Completion **"Karmana"** held at KIET College.
 > - Coordinator and member of Departmental Hobby club.
 > - Coordinator in National Sports Fest "Maitree" at University Level.
 
-<h3 align="center">  PERSONAL DETAILS </h3>
+<h3 align="center">  PERSONAL DETAILS 👪 </h3>
 <details close="close">
   
 <summary><b> SELF DETAIlL </b></summary>
 
 | **Name:-** | Vikas Tiwari |    
 | :------ | :------: |  
-| **(DOB):-** | 30/11/1996 |  
+| :bo**(DOB):-** | 30/11/1996 |  
 | **Blood Group:-** | B ***+ve*** |  
-| **Contact No:-** | 7830859005 |  
-| **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh |  
-| **Correspondence Address:-**| same as permanent |
+|☎️ **Contact No:-** | 7830859005 |  
+|🏠 **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh |  
+|🏠 **Correspondence Address:-**| same as permanent |
 </details>
 
 <details close="close">
   
-<summary><b> PARENTS DETAILS </b></summary>
+<summary><b> PARENTS DETAILS  </b></summary>
 
 
 | **Father Name:-** | **Mr.** Anil Tiwari | **Mother Name:-** | **Mrs.** Radha Tiwari |  
-| :------ | :------: | :------ | :------: | 
+| :---- | :------ | :------ | :------ | 
 | **(DOB):-** | DD/MM/YYYY | **(DOB):-** | DD/MM/YYYY |  
 | **Blood Group:-** | B ***+ve*** | **Blood Group:-** | B ***+ve*** | 
-| **Contact No:-** | ********** | **Contact No:-** | ********** | 
-| **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh | **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh | 
-| **Correspondence Address:-**| same as permanent | **Correspondence Address:-**| same as permanent |
+|☎️ **Contact No:-** | ********** | ☎️ **Contact No:-** | ********** | 
+|🏠 **Permanent Address:-** | 8/239 Raghuveerpuri gali no:-1,Aligarh |🏠 **Permanent Address:-** | 8/239 Raghuveerpuri gali no:-1,Aligarh | 
+|🏠 **Correspondence Address:-**| same as permanent |🏠 **Correspondence Address:-**| same as permanent |
 </details>
 
 
