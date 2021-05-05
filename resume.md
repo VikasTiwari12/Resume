@@ -66,18 +66,19 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <details close="close">
  <summary> <b>Programming Languages ⚙️ </b></summary>
   <br/>
-  
-| ***Language Name*** | ***Experience Level*** |TECHNICAL SKILLS
+
+| ***Language Name*** | ***Experience Level*** |  
 | :------ | :------: |
 | C Language | Intermediate |
 | HTML | Intermediate |
 | CSS | Intermediate |
 | JAVA | Intermediate |
-| MARKDOWN | Intermediate |
+
 </details>
 
 <details close="close">
 <summary> <b>Technical Skills⚙️ </b></summary>
+  </br>
 
 | ***Name*** | ***Experience Level*** |
 | :------ | :------: |
@@ -118,7 +119,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
   
 <summary><b> PARENTS DETAILS  </b></summary>
 
-<b><p align="center"> FATHER DETAILS</p></b>
+<b><p align="center"><i> **FATHER DETAILS** </i></p></b>
 
 - **Father Name:-**&nbsp; **Mr.** Anil Tiwari   
 - **(DOB):-**&nbsp;  DD/MM/YYYY  
@@ -127,7 +128,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 - **Permanent Address🏠:-**&nbsp; House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh    
 - **Correspondence Address🏠:-**&nbsp; same as permanent 
 
-<b><p align="center" > MOTHER DETAILS</p></b>
+<b><p align="center"><i> **MOTHER DETAILS** </i></p></b>
 
 - **Mother Name:-**&nbsp;  **Mrs.** Radha Tiwari 
 - **(DOB):-**&nbsp;  DD/MM/YYYY  
