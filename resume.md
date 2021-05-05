@@ -18,7 +18,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
     <br/>
     
 | ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
-| :------ | :------: | :------: | :------: |
+| :------: | :------: | :------: | :------: |
 | Master of Computer Applications (MCA) | KIET Group of Institutions,Ghaziabad | 66.67 % | 2018-2021 |
 | Bachelor of Computer Applications (BCA) | GLA University, Mathura | 6.10 CGPA | 2015-2018 |  
 | Intermediate | GOPIRAM PALIWAL INTER COLLEGE, ALIGARH | 52.60 % | 2015|  
@@ -30,18 +30,14 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <details close="close">
   <summary><b> PROJECTS DETAILS💡 </b></summary>
-   <ol><br/>
-    <li>
-      QUALIFICATION's 🔽
-      </li>
-    <br/>
-
+     <br/>
+  <br/>
 <table>
   <tr>
-    <th>**&nbsp;**&nbsp;Project Name</th>
-    <th>Technology</th>
-    <th>Staring Date</th>
-    <th>Ending Date</th>
+    <th> <i> **Project Name** </i></th>
+    <th><i>**Technology**</i></th>
+    <th><i>**Staring Date**</i></th>
+    <th><i>**Ending Date**</i></th>
   </tr>
   <tr>
     <td>Department Student Portal</td>
