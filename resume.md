@@ -59,7 +59,10 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 
 <h3 align="center"> PROGRAMMING LANGUAGES </h3>
- 
+<details close="close">
+ <summary><b> PROJECTS DETAILS💡 </b></summary>
+  <br/>
+  
 | ***Language Name*** | ***Experience Level*** |
 | :------ | :------: |
 | C Language | Intermediate |
@@ -68,6 +71,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | JAVA | Intermediate |
 | MARKDOWN | Intermediate |
 
+</details>
 
 <h3 align="center"> TECHNICAL SKILLS </h3>
 
