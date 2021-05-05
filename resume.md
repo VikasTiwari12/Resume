@@ -126,12 +126,12 @@ To obtain the opportunity to work in a fun challenging working environment that 
   
 <summary><b> SELF DETAILS </b></summary>
 
-- **Name**:- Vikas Tiwari  
-- **(DOB)**:- 30/11/1996  
-- **Blood Group**:- B ***+ve***  
-- **Contact No**☎️:- 7830859005  
-- **Permanent Address**🏠:- House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh  
-- **Correspondence Address**🏠:- same as permanent  
+- **Name**:- &nbsp;Vikas Tiwari  
+- **(DOB)**:-&nbsp; 30/11/1996  
+- **Blood Group**:-&nbsp; B ***+ve***  
+- **Contact No**☎️:-&nbsp; 7830859005  
+- **Permanent Address**🏠:-&nbsp; House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh  
+- **Correspondence Address**🏠:-&nbsp; same as permanent  
 </details>
 
 <details close="close">
@@ -140,21 +140,21 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <b><p align="center"> FATHER DETAILS</p></b>
 
-- **Father Name:-** **Mr.** Anil Tiwari   
-- **(DOB):-**  DD/MM/YYYY  
-- **Blood Group:-**  B ***+ve***      
-- **Contact No:-☎️**  **********     
-- **Permanent Address:-🏠**  8/239 Raghuveerpuri gali no:-1,Aligarh    
-- **Correspondence Address:-🏠** same as permanent 
+- **Father Name:-**&nbsp; **Mr.** Anil Tiwari   
+- **(DOB):-**&nbsp;  DD/MM/YYYY  
+- **Blood Group:-**&nbsp;  B ***+ve***      
+- **Contact No☎️:-**&nbsp;  **********     
+- **Permanent Address🏠:-**&nbsp; House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh    
+- **Correspondence Address🏠:-**&nbsp; same as permanent 
 
 <b><p align="center" > MOTHER DETAILS</p></b>
 
-- **Mother Name:-**  **Mrs.** Radha Tiwari 
-- **(DOB):-**  DD/MM/YYYY  
-- **Blood Group:-**  B ***+ve***   
-- **Contact No:-☎️**  *********    
-- **Permanent Address:-🏠**  House No:-8/239 Raghuveerpuri gali no:-1,Aligarh  
-- **Correspondence Address:-🏠** same as permanent  
+- **Mother Name:-**&nbsp;  **Mrs.** Radha Tiwari 
+- **(DOB):-**&nbsp;  DD/MM/YYYY  
+- **Blood Group:-**&nbsp;  B ***+ve***   
+- **Contact No☎️:-**&nbsp;  *********    
+- **Permanent Address🏠:-**&nbsp;  House No:-8/239 Raghuveerpuri gali no:-1,Aligarh  
+- **Correspondence Address🏠:-**&nbsp; same as permanent  
 </details>
 
 
