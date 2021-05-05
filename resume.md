@@ -109,17 +109,17 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <h3 align="center"> WORKSHOP/SEMINAR :memo: </h3>
 
  
-> - Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.  
-> - Attended workshop on Cloud Computing.  
-> - Attended the guest lecture on cloud given by **Microsoft's CEO (Mr.Magnus Martensson)**.    
-> - Attended a workshop on Big Data & Hadoop.     
+- Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.  
+- Attended workshop on Cloud Computing.  
+- Attended the guest lecture on cloud given by **Microsoft's CEO (Mr.Magnus Martensson)**.    
+- Attended a workshop on Big Data & Hadoop.     
  
 
 <h3 align="center"> ACHIEVEMENTS :trophy: </h3>
 
-> - Secured 🥉**Third position** at National Project Completion **"Karmana"** held at KIET College.
-> - Coordinator and member of Departmental Hobby club.
-> - Coordinator in National Sports Fest "Maitree" at University Level.
+- Secured 🥉**Third position** at National Project Completion **"Karmana"** held at KIET College.
+- Coordinator and member of Departmental Hobby club.
+- Coordinator in National Sports Fest "Maitree" at University Level.
 
 <h3 align="center">  PERSONAL DETAILS 👪 </h3>
 <details close="close">
@@ -138,16 +138,16 @@ To obtain the opportunity to work in a fun challenging working environment that 
   
 <summary><b> PARENTS DETAILS  </b></summary>
 
-<b><p> 1.FATHER DETAILS</p></b>
+<b><p align="center"> FATHER DETAILS</p></b>
 
 - **Father Name:-** **Mr.** Anil Tiwari   
 - **(DOB):-**  DD/MM/YYYY  
-- **Blood Group:-**  B ***+ve***    
-- **Contact No:-☎️ **  **********     
+- **Blood Group:-**  B ***+ve***      
+- **Contact No:-☎️**  **********     
 - **Permanent Address:-🏠**  8/239 Raghuveerpuri gali no:-1,Aligarh    
 - **Correspondence Address:-🏠** same as permanent 
 
-<b><p>FATHER DETAILS</p></b>
+<b><p align="center" > MOTHER DETAILS</p></b>
 
 - **Mother Name:-**  **Mrs.** Radha Tiwari 
 - **(DOB):-**  DD/MM/YYYY  
