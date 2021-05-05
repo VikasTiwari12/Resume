@@ -62,9 +62,9 @@ To obtain the opportunity to work in a fun challenging working environment that 
 </details>
 
 
-<h2 align="center"> SKILLS </h2>
+<h2 align="center"> SKILLS⚙️ </h2>
 <details close="close">
- <summary> Programming Languages ⚙️ </summary>
+ <summary> <b>Programming Languages ⚙️ </b></summary>
   <br/>
   
 | ***Language Name*** | ***Experience Level*** |TECHNICAL SKILLS
@@ -76,11 +76,8 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | MARKDOWN | Intermediate |
 </details>
 
-
 <details close="close">
-<summary> TECHNICAL SKILLS⚙️ </summary>
-
-
+<summary> <b>Technical Skills⚙️ </b></summary>
 
 | ***Name*** | ***Experience Level*** |
 | :------ | :------: |
