@@ -79,7 +79,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 | ***Project Name*** | ***Technology*** | ***Staring Date*** | ***Ending Date*** |
 | :------: | :------: | :------: | :------: |
 | Infinite Runner 3D | Unity, Maya, C# | 06/2020 | 12/2020 |
-
+</ol>
 </details>
 
 <h3 align="center"> PROGRAMMING LANGUAGES </h3>
