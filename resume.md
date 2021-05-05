@@ -30,10 +30,15 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <details close="close">
   <summary><b> PROJECTS DETAILS💡 </b></summary>
+   <ol><br/>
+    <li>
+      QUALIFICATION's 🔽
+      </li>
+    <br/>
 
 <table>
   <tr>
-    <th>Project Name</th>
+    <th>**&nbsp;**&nbsp;Project Name</th>
     <th>Technology</th>
     <th>Staring Date</th>
     <th>Ending Date</th>
