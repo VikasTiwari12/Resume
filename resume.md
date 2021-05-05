@@ -64,7 +64,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <h2 align="center"> PROGRAMMING LANGUAGES </h2>
 <details close="close">
- <summary align="center"><b> ROJECTS DETAILS💡 </b></summary>
+ <summary align="center"> ⚙️ </summary>
   <br/>
   
 | ***Language Name*** | ***Experience Level*** |
