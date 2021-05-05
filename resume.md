@@ -13,7 +13,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <summary><b>Education Details :mortar_board:</b></summary>  
     <br/>  
     
-| ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
+| ** ***Degree/Qualification*** ** | ** ***Institute/School*** ** | ** ***Aggregate*** ** | ** ***Session*** ** |
 | :------: | :------: | :------: | :------: |
 | Master of Computer Applications (MCA) | KIET Group of Institutions,Ghaziabad | 66.67 % | 2018-2021 |
 | Bachelor of Computer Applications (BCA) | GLA University, Mathura | 6.10 CGPA | 2015-2018 |  
@@ -33,24 +33,28 @@ To obtain the opportunity to work in a fun challenging working environment that 
     <th><i>**Technology**</i></th>
     <th><i>**Staring Date**</i></th>
     <th><i>**Ending Date**</i></th>
+    <th><i>**Mambers**</i></th>
   </tr>
   <tr>
     <td>Department Student Portal</td>
     <td>HTML & CSS WordPress CMS</td>
     <td>01/2018</td>
     <td>05/2018</td>
+    <td>Indivisual</td>
   </tr>
   <tr>
     <td>Fire Fighting Robo</td>
     <td>IOT, C</td>
     <td>01/2019</td>
     <td>03/2019</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Infinite Runner 3D</td>
     <td>Unity, Maya, C#</td>
     <td>06/2020</td>
     <td>12/2020</td>
+    <td>Indivisual</td>
   </tr>
  
 </table>
