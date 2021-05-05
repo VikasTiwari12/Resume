@@ -19,79 +19,48 @@ To obtain the opportunity to work in a fun challenging working environment that 
     
 | ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
 | :------ | :------: | :------: | :------: |
-| Master of Computer Applications | KIET Group of Institutions,Ghaziabad | 66.67 % | 2018-2021 |
-| Bachelor of Computer Applications | GLA University, Mathura | 6.10 CGPA | 2015-2018 |  
+| Master of Computer Applications (MCA) | KIET Group of Institutions,Ghaziabad | 66.67 % | 2018-2021 |
+| Bachelor of Computer Applications (BCA) | GLA University, Mathura | 6.10 CGPA | 2015-2018 |  
 | Intermediate | GOPIRAM PALIWAL INTER COLLEGE, ALIGARH | 52.60 % | 2015|  
 | High School | KAMLA UCHATTAR M. V. ALIGARH | 58.50 % | 2012|
-````
-<br/>
-    <li>
-     <b>GRADUATION 🔽</b>
-      </li>
-    <br/>
-    
-| ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
-| :------: | :------: | :------: | :------: |
-| Bachelor of Computer Applications | GLA University, Mathura | 6.10 CGPA | 2015-2018 |
 
-<br/>
-    <li>
-     <b> INTERMEDIATE🔽</b>
-      </li>
-    <br/>  
-    
-| ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
-| :------: | :------: | :------: | :------: |
-| Intermediate | GOPIRAM PALIWAL INTER COLLEGE, ALIGARH | 52.60 % | 2015|
-
-<br/>
-    <li>
-     <b> HIGH SCHOOL🔽</b>
-      </li>
-    <br/>
-    
-| ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
-| :------: | :------: | :------: | :------: |
-| High School | KAMLA UCHATTAR M. V. ALIGARH | 58.50 % | 2012|
-````
 </details> 
 
 <h3 align="center">  PROJECTS EXPOSURE 💡 </h3>
 
 <details close="close">
   <summary><b> PROJECTS DETAILS💡 </b></summary>
-  <ol><br/>
-    <li>
-     <b> Student Portal 🔽 </b>
-      </li>
-    <br/>
-    
-| ***Project Name*** | ***Technology*** | ***Staring Date*** | ***Ending Date*** |
-| :------: | :------: | :------: | :------: |
-| Department Student Portal | HTML & CSS WordPress CMS | 01/2018 | 05/2018 |
 
-<br/>
-    <li>
-     <b> Fire Fighting Robo 🔽</b>
-      </li>
-    <br/>
-    
-| ***Project Name*** | ***Technology*** | ***Staring Date*** | ***Ending Date*** |
-| :------: | :------: | :------: | :------: |
-| Fire Fighting Robo | IOT, C | 01/2019 | 03/2019 |
+<table>
+  <tr>
+    <th>Project Name</th>
+    <th>Technology</th>
+    <th>Staring Date</th>
+    <th>Ending Date</th>
+  </tr>
+  <tr>
+    <td>Department Student Portal</td>
+    <td>HTML & CSS WordPress CMS</td>
+    <td>01/2018</td>
+    <td>05/2018</td>
+  </tr>
+  <tr>
+    <td>Fire Fighting Robo</td>
+    <td>IOT, C</td>
+    <td>01/2019</td>
+    <td>03/2019</td>
+  </tr>
+  <tr>
+    <td>Infinite Runner 3D</td>
+    <td>Unity, Maya, C#</td>
+    <td>06/2020</td>
+    <td>12/2020</td>
+  </tr>
+ 
+</table>
 
-<br/>
-    <li>
-     <b> Infinite Runner 3D 🔽</b>
-      </li>
-    <br/>
-    
-| ***Project Name*** | ***Technology*** | ***Staring Date*** | ***Ending Date*** |
-| :------: | :------: | :------: | :------: |
-| Infinite Runner 3D | Unity, Maya, C# | 06/2020 | 12/2020 |
-</ol>
-```
 </details>
+
 
 <h3 align="center"> PROGRAMMING LANGUAGES </h3>
  
