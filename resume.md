@@ -1,4 +1,10 @@
 # Vikas Tiwari  
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+</p>
+
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
 <h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
@@ -120,27 +126,35 @@ To obtain the opportunity to work in a fun challenging working environment that 
   
 <summary><b> SELF DETAILS </b></summary>
 
-| **Name:-** | Vikas Tiwari |    
-| :------ | :------: |  
-| **(DOB):-** | 30/11/1996 |  
-| **Blood Group:-** | B ***+ve*** |  
-|☎️ **Contact No:-** | 7830859005 |  
-|🏠 **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh |  
-|🏠 **Correspondence Address:-**| same as permanent |
+- **Name**:- Vikas Tiwari  
+- **(DOB)**:- 30/11/1996  
+- **Blood Group**:- B ***+ve***  
+- **Contact No**☎️:- 7830859005  
+- **Permanent Address**🏠:- House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh  
+- **Correspondence Address**🏠:- same as permanent  
 </details>
 
 <details close="close">
   
 <summary><b> PARENTS DETAILS  </b></summary>
 
+<b><p> 1.FATHER DETAILS</p></b>
 
-| **Father Name:-** | **Mr.** Anil Tiwari | **Mother Name:-** | **Mrs.** Radha Tiwari |  
-| :---- | :------ | :------ | :------ | 
-| **(DOB):-** | DD/MM/YYYY | **(DOB):-** | DD/MM/YYYY |  
-| **Blood Group:-** | B ***+ve*** | **Blood Group:-** | B ***+ve*** | 
-|☎️ **Contact No:-** | ********** | ☎️ **Contact No:-** | ********** | 
-|🏠 **Permanent Address:-** | 8/239 Raghuveerpuri gali no:-1,Aligarh |🏠 **Permanent Address:-** | 8/239 Raghuveerpuri gali no:-1,Aligarh | 
-|🏠 **Correspondence Address:-**| same as permanent |🏠 **Correspondence Address:-**| same as permanent |
+- **Father Name:-** **Mr.** Anil Tiwari   
+- **(DOB):-**  DD/MM/YYYY  
+- **Blood Group:-**  B ***+ve***  
+- **Contact No:-☎️ **  **********   
+- **Permanent Address:-🏠**  8/239 Raghuveerpuri gali no:-1,Aligarh  
+- **Correspondence Address:-🏠** same as permanent 
+
+<p style="color:blue>FATHER DETAILS</p>
+
+- **Mother Name:-**  **Mrs.** Radha Tiwari 
+- **(DOB):-**  DD/MM/YYYY  
+- **Blood Group:-**  B ***+ve*** 
+- **Contact No:-☎️**  *********  
+- **Permanent Address:-🏠**  House No:-8/239 Raghuveerpuri gali no:-1,Aligarh  
+- **Correspondence Address:-🏠** same as permanent  
 </details>
 
 
