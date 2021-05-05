@@ -22,7 +22,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 </details> 
 
-<h3 align="center">  PROJECTS EXPOSURE 💡 </h3>
+<h2 align="center">  PROJECTS EXPOSURE 💡 </h2>
 
 <details close="close">
   <summary><b> PROJECTS DETAILS💡 </b></summary>
@@ -58,7 +58,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 </details>
 
 
-<h3 align="center"> PROGRAMMING LANGUAGES </h3>
+<h2 align="center"> PROGRAMMING LANGUAGES </h2>
 <details close="close">
  <summary><b> PROJECTS DETAILS💡 </b></summary>
   <br/>
@@ -73,14 +73,14 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 </details>
 
-<h3 align="center"> TECHNICAL SKILLS </h3>
+<h2 align="center"> TECHNICAL SKILLS </h2>
 
 | ***Name*** | ***Experience Level*** |
 | :------ | :------: |
 | Internet of Things | Intermediate |
 | UNITY 3D | Beginner |
 
-<h3 align="center"> WORKSHOP/SEMINAR :memo: </h3>
+<h2 align="center"> WORKSHOP/SEMINAR :memo: </h2>
 
  
 - Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.  
@@ -89,7 +89,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 - Attended a workshop on Big Data & Hadoop.     
  
 
-<h3 align="center"> ACHIEVEMENTS :trophy: </h3>
+<h2 align="center"> ACHIEVEMENTS :trophy: </h2>
 
 - Secured 🥉**Third position** at National Project Completion **"Karmana"** held at KIET College.
 - Coordinator and member of Departmental Hobby club.
