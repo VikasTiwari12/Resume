@@ -142,17 +142,17 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 - **Father Name:-** **Mr.** Anil Tiwari   
 - **(DOB):-**  DD/MM/YYYY  
-- **Blood Group:-**  B ***+ve***  
-- **Contact No:-☎️ **  **********   
-- **Permanent Address:-🏠**  8/239 Raghuveerpuri gali no:-1,Aligarh  
+- **Blood Group:-**  B ***+ve***    
+- **Contact No:-☎️ **  **********     
+- **Permanent Address:-🏠**  8/239 Raghuveerpuri gali no:-1,Aligarh    
 - **Correspondence Address:-🏠** same as permanent 
 
-<p style="color:blue>FATHER DETAILS</p>
+<b><p>FATHER DETAILS</p></b>
 
 - **Mother Name:-**  **Mrs.** Radha Tiwari 
 - **(DOB):-**  DD/MM/YYYY  
-- **Blood Group:-**  B ***+ve*** 
-- **Contact No:-☎️**  *********  
+- **Blood Group:-**  B ***+ve***   
+- **Contact No:-☎️**  *********    
 - **Permanent Address:-🏠**  House No:-8/239 Raghuveerpuri gali no:-1,Aligarh  
 - **Correspondence Address:-🏠** same as permanent  
 </details>
