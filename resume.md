@@ -11,11 +11,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <details close="close">
   
 <summary><b>Education Details :mortar_board:</b></summary>  
-  <ol><br/>
-    <li>
-      QUALIFICATION's 🔽
-      </li>
-    <br/>
+    <br/>  
     
 | ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
 | :------: | :------: | :------: | :------: |
@@ -31,10 +27,9 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <details close="close">
   <summary><b> PROJECTS DETAILS💡 </b></summary>
      <br/>
-  <br/>
 <table>
   <tr>
-    <th> <i> **Project Name** </i></th>
+    <th><i>**Project Name**</i></th>
     <th><i>**Technology**</i></th>
     <th><i>**Staring Date**</i></th>
     <th><i>**Ending Date**</i></th>
