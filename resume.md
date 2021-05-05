@@ -119,7 +119,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
   
 <summary><b> PARENTS DETAILS  </b></summary>
 
-<b><p align="center"><i> **FATHER DETAILS** </i></p></b>
+<p align="center"><b><i> **FATHER DETAILS** </i></b></p>
 
 - **Father Name:-**&nbsp; **Mr.** Anil Tiwari   
 - **(DOB):-**&nbsp;  DD/MM/YYYY  
@@ -128,7 +128,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 - **Permanent Address🏠:-**&nbsp; House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh    
 - **Correspondence Address🏠:-**&nbsp; same as permanent 
 
-<b><p align="center"><i> **MOTHER DETAILS** </i></p></b>
+<p align="center"><b><i>**MOTHER DETAILS**</i></b></p>
 
 - **Mother Name:-**&nbsp;  **Mrs.** Radha Tiwari 
 - **(DOB):-**&nbsp;  DD/MM/YYYY  
