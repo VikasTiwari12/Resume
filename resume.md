@@ -83,19 +83,20 @@ To obtain the opportunity to work in a fun challenging working environment that 
 </details>
 
 <h3 align="center"> PROGRAMMING LANGUAGES </h3>
-
+ 
 | ***Language Name*** | ***Experience Level*** |
-| :------: | :------: |
+| :------ | :------: |
 | C Language | Intermediate |
 | HTML | Intermediate |
 | CSS | Intermediate |
 | JAVA | Intermediate |
 | MARKDOWN | Intermediate |
 
+
 <h3 align="center"> TECHNICAL SKILLS </h3>
 
 | ***Name*** | ***Experience Level*** |
-| :------: | :------: |
+| :------ | :------: |
 | Internet of Things | Intermediate |
 | UNITY 3D | Beginner |
 
@@ -117,11 +118,11 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <h3 align="center">  PERSONAL DETAILS 👪 </h3>
 <details close="close">
   
-<summary><b> SELF DETAIlL </b></summary>
+<summary><b> SELF DETAILS </b></summary>
 
 | **Name:-** | Vikas Tiwari |    
 | :------ | :------: |  
-| :bo**(DOB):-** | 30/11/1996 |  
+| **(DOB):-** | 30/11/1996 |  
 | **Blood Group:-** | B ***+ve*** |  
 |☎️ **Contact No:-** | 7830859005 |  
 |🏠 **Permanent Address:-** | House no:- 8/239 Raghuveerpuri gali no:-1,Aligarh |  
