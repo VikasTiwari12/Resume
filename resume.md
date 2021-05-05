@@ -13,12 +13,12 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <summary><b>Education Details :mortar_board:</b></summary>  
   <ol><br/>
     <li>
-      POST GRADUATION 🔽
+      QUALIFICATION's 🔽
       </li>
     <br/>
     
 | ***Degree/Qualification*** | ***Institute/School*** | ***Aggregate*** | ***Session*** |
-| :------: | :------: | :------: | :------: |
+| :------ | :------: | :------: | :------: |
 | Master of Computer Applications | KIET Group of Institutions,Ghaziabad | 66.67 % | 2018-2021 |
 | Bachelor of Computer Applications | GLA University, Mathura | 6.10 CGPA | 2015-2018 |  
 | Intermediate | GOPIRAM PALIWAL INTER COLLEGE, ALIGARH | 52.60 % | 2015|  
