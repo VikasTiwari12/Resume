@@ -1,7 +1,5 @@
 # Vikas Tiwari  
 
-
-
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
 <h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
@@ -66,10 +64,10 @@ To obtain the opportunity to work in a fun challenging working environment that 
 
 <p align = "center">
  <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/c-programming.png" height="70" width="70" /></a>
-	&nbsp;	&nbsp;	&nbsp;<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/pngaaa.com-4179044.png" height="70" width="70" /></a>
-	&nbsp;	&nbsp; 	&nbsp;<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center"  src = "https://github.com/VikasTiwari12/Resume/blob/main/img_4048.png" height="70" width="70" /></a>
-	&nbsp;	&nbsp; 	&nbsp;<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/java-eps-vector-logo.png" height="70" width="90" /></a>
-	&nbsp;<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/432547040_1280x720.jpg" height="70" width="90" /></a>
+&nbsp;	&nbsp;	&nbsp;<a href="https://www.w3schools.com/html/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/pngaaa.com-4179044.png" height="70" width="70" /></a>
+&nbsp;	&nbsp; 	&nbsp;<a href="https://www.w3schools.com/css/default.asp" target="_blank" ><img align = "center"  src = "https://github.com/VikasTiwari12/Resume/blob/main/img_4048.png" height="70" width="70" /></a>
+&nbsp;	&nbsp; 	&nbsp;<a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/java-eps-vector-logo.png" height="70" width="90" /></a>
+&nbsp;<a href="https://www.markdownguide.org/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/432547040_1280x720.jpg" height="70" width="90" /></a>
    
   
 </p>
