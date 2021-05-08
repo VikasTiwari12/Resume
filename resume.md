@@ -59,34 +59,31 @@ To obtain the opportunity to work in a fun challenging working environment that 
 </details>
 
 
-<h2 align="center"> SKILLS⚙️ </h2>
+<h2 align="center"> TECHNICAL SKILLS⚙️ </h2>
 <details close="close">
  <summary> <b>Programming Languages ⚙️ </b></summary>
   <br/>
 
 <p align = "center">
  <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/c-programming.png" height="70" width="70" /></a>
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/pngaaa.com-4179044.png" height="70" width="70" /></a>
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "https://github.com/VikasTiwari12/Resume/blob/main/img_4048.png" height="70" width="70" /></a>
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/JAVA.jpg" height="70" width="70" /></a>
-<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/Markdown.png" height="70" width="70" /></a>
+	&nbsp;	&nbsp;	&nbsp;<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/pngaaa.com-4179044.png" height="70" width="70" /></a>
+	&nbsp;	&nbsp; 	&nbsp;<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center"  src = "https://github.com/VikasTiwari12/Resume/blob/main/img_4048.png" height="70" width="70" /></a>
+	&nbsp;	&nbsp; 	&nbsp;<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/java-eps-vector-logo.png" height="70" width="90" /></a>
+	&nbsp;<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/432547040_1280x720.jpg" height="70" width="90" /></a>
    
   
 </p>
 
-| ***Language Name*** | ***Experience Level*** |  
-| :------ | :------: |
-| C Language | Intermediate |
-| HTML | Intermediate |
-| CSS | Intermediate |
-| JAVA | Intermediate |
-
 </details>
 
 <details close="close">
-<summary> <b>Technical Skills⚙️ </b></summary>
+<summary> <b> Technology⚙️ </b></summary>
   </br>
-
+<p align = "center">
+ <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/334e063ae9f247704b37549b4b0f47d1.png" height="80" width="120" /></a>
+&nbsp;<a href="https://www.tutorialspoint.com/internet_of_things/index.htm/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="95" width="130" /></a>
+  </p>
+  
 | ***Name*** | ***Experience Level*** |
 | :------ | :------: |
 | Internet of Things | Intermediate |
