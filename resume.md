@@ -65,16 +65,11 @@ To obtain the opportunity to work in a fun challenging working environment that 
   <br/>
 
 <p align = "center">
- <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img src ="https://github.com/VikasTiwari12/Resume/blob/main/c-programming.png" height="50" width="50" /></a>
-  
-  <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img src ="https://github.com/VikasTiwari12/Resume/blob/main/HTML.jpg" height="50" width="50" /></a>
-  
-   <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img src ="https://github.com/VikasTiwari12/Resume/blob/main/Css.jpg" height="50" width="50" /></a>
-   
-   <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img src ="https://github.com/VikasTiwari12/Resume/blob/main/JAVA.jpg" height="50" width="50" /></a>
-   
-   
-   <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align="center" src ="https://github.com/VikasTiwari12/Resume/blob/main/Markdown.png" height="50" width="50" /></a>
+ <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/c-programming.png" height="70" width="70" /></a>
+<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/pngaaa.com-4179044.png" height="70" width="70" /></a>
+<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "https://github.com/VikasTiwari12/Resume/blob/main/img_4048.png" height="70" width="70" /></a>
+<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/JAVA.jpg" height="70" width="70" /></a>
+<a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/Markdown.png" height="70" width="70" /></a>
    
   
 </p>
