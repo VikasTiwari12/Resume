@@ -77,7 +77,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
   </br>
 <p align = "center">
 <a href="https://www.javatpoint.com/iot-internet-of-things" target="_blank"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/334e063ae9f247704b37549b4b0f47d1.png" height="80" width="120" /></a>
-&nbsp;<a href="https://www.tutorialspoint.com/unity/index.htm" target="blank"><img align = "center" src="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="95" width="130" /></a>
+&nbsp;<a href="https://github.com/VikasTiwari12/bio"><img align = "center" src="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="95" width="130" /></a>
   </p>
   
 </details>
@@ -134,12 +134,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
 </details>
 
 
-<p style='text-align: center'>
-<img src='https://waylonwalker.com/open-source-cards.png' style='width:600px; max-width:80%; margin: auto;' alt='Open Source cards as they look on waylonwalker.com'/>
-</p>
 
 
-![WaylonWalker](https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png)
 
-[Duck Duck Go](https://duckduckgo.com)
 
