@@ -1,9 +1,6 @@
 # Vikas Tiwari  
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
-</p>
+
 
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
@@ -66,6 +63,10 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <details close="close">
  <summary> <b>Programming Languages ⚙️ </b></summary>
   <br/>
+
+<p align = "center">
+ <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language." target="blank"><img align="center" src ="https://github.com/VikasTiwari12/Resume/blob/main/c-programming.png" alt="n s" height="30" width="40" /></a>
+</p>
 
 | ***Language Name*** | ***Experience Level*** |  
 | :------ | :------: |
