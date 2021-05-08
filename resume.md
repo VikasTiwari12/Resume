@@ -78,8 +78,6 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <p align = "center">
 <a href="https://www.javatpoint.com/iot-internet-of-things" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/334e063ae9f247704b37549b4b0f47d1.png" height="80" width="120" /></a>
 &nbsp;<a href="https://www.tutorialspoint.com/unity/index.htm" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="95" width="130" /></a>
-  
-  [![An old rock in the desert](https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png "Shiprock, New Mexico by Beau Rogers")](https://www.markdownguide.org/basic-syntax/#linking-images)
   </p>
   
 </details>
@@ -136,8 +134,12 @@ To obtain the opportunity to work in a fun challenging working environment that 
 </details>
 
 
-  
-  
+ <p>
+An image as a link: <a href="https://stackoverflow.com/questions/32359583/markdown-link-opening-in-new-tab/38121787">
+<img border="0" alt="W3Schools" src="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" width="100" height="100">
+</a>
+</p>
+
 
 
 
