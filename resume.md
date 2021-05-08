@@ -1,5 +1,12 @@
 ### <div align="center"> RESUME </div>
 
+<p align='center'>
+<a href="vikastiwariindi@gmail.com"><img height="33" src="https://github.com/VikasTiwari12/Resume/blob/main/icons8-gmail-48.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+</p>
+
 # <div align="Right"> VIKAS TIWARI </div>  
 <div align="Right"> :e-mail:Vikastiwariindi@gmail.com </div>
 <div align="Right"> :telephone: 7830859005</div> 
