@@ -76,8 +76,8 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <summary> <b> Technology⚙️ </b></summary>
   </br>
 <p align = "center">
-<a href="https://www.javatpoint.com/iot-internet-of-things" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/334e063ae9f247704b37549b4b0f47d1.png" height="80" width="120" /></a>
-&nbsp;<a href="https://www.tutorialspoint.com/unity/index.htm" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="95" width="130" /></a>
+<a href="https://www.javatpoint.com/iot-internet-of-things" target="_blank"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/334e063ae9f247704b37549b4b0f47d1.png" height="80" width="120" /></a>
+&nbsp;<a href="https://www.tutorialspoint.com/unity/index.htm" target="blank"><img align = "center" src="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="95" width="130" /></a>
   </p>
   
 </details>
@@ -134,17 +134,12 @@ To obtain the opportunity to work in a fun challenging working environment that 
 </details>
 
 
- <p>
-An image as a link: <a href="https://stackoverflow.com/questions/32359583/markdown-link-opening-in-new-tab/38121787">
-<img border="0" alt="W3Schools" src="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" width="100" height="100">
-</a>
+<p style='text-align: center'>
+<img src='https://waylonwalker.com/open-source-cards.png' style='width:600px; max-width:80%; margin: auto;' alt='Open Source cards as they look on waylonwalker.com'/>
 </p>
 
 
-<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
+![WaylonWalker](https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png)
 
-
-
-
-
+[Duck Duck Go](https://duckduckgo.com)
 
