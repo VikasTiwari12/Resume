@@ -1,4 +1,9 @@
-# Vikas Tiwari  
+### <div align="center"> RESUME </div>
+
+# <div align="Right"> VIKAS TIWARI </div>  
+<div align="Right"> :e-mail:Vikastiwariindi@gmail.com </div>
+<div align="Right"> :telephone: 7830859005</div> 
+<div align="Right"> :postbox: House no:- 8/239, Raghuveer puri gali no:-1 Aligarh,202001 </div>
 
 To obtain the opportunity to work in a fun challenging working environment that will encourage me to  improve and  learn new  and  necessary skills.  
 
