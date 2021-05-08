@@ -141,6 +141,7 @@ An image as a link: <a href="https://stackoverflow.com/questions/32359583/markdo
 </p>
 
 
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
 
 
 
