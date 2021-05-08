@@ -80,15 +80,10 @@ To obtain the opportunity to work in a fun challenging working environment that 
 <summary> <b> Technology⚙️ </b></summary>
   </br>
 <p align = "center">
- <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/334e063ae9f247704b37549b4b0f47d1.png" height="80" width="120" /></a>
-&nbsp;<a href="https://www.tutorialspoint.com/internet_of_things/index.htm/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="95" width="130" /></a>
+<a href="https://www.javatpoint.com/iot-internet-of-things" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/334e063ae9f247704b37549b4b0f47d1.png" height="80" width="120" /></a>
+&nbsp;<a href="https://www.tutorialspoint.com/unity/index.htm" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="95" width="130" /></a>
   </p>
   
-| ***Name*** | ***Experience Level*** |
-| :------ | :------: |
-| Internet of Things | Intermediate |
-| UNITY 3D | Beginner |
-
 </details>
 
 <h2 align="center"> WORKSHOP/SEMINAR :memo: </h2>
