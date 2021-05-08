@@ -37,7 +37,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
     <td>01/2018</td>
     <td>05/2018</td>
     <td>Indivisual</td>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/animated-click-here-sign-and-button-image-0009.gif" height="20" width="20" /></a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/ezgif.com-gif-maker%20(4).gif" height="25" width="70" /></a></td>
   </tr>
   <tr>
     <td>Fire Fighting Robo</td>
@@ -45,7 +45,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
     <td>01/2019</td>
     <td>03/2019</td>
     <td>3</td>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/animated-click-here-sign-and-button-image-0009.gif" height="20" width="20" /></a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/ezgif.com-gif-maker%20(4).gif" height="25" width="70" /></a></td>
   </tr>
   <tr>
     <td>Infinite Runner 3D</td>
@@ -53,7 +53,7 @@ To obtain the opportunity to work in a fun challenging working environment that 
     <td>06/2020</td>
     <td>12/2020</td>
     <td>Indivisual</td>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/animated-click-here-sign-and-button-image-0009.gif" height="20" width="20" /></a></td>
+    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/ezgif.com-gif-maker%20(4).gif" height="25" width="70" /></a></td>
   </tr>
  
 </table>
