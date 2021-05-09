@@ -94,9 +94,9 @@
 
 <h2 align="center"> WORKSHOP/SEMINAR :memo: </h2>
 
-- Attended a workshop on ***Big Data & Hadoop.***<a href="https://github.com/VikasTiwari12"><img height="25" src="https://github.com/VikasTiwari12/Resume/blob/main/click-here-logo-button-gif-images-2.gif"></a>
-- Attended workshop on ***Cloud Computing.***
-- Attended workshop on ***Networking.***
+- Attended a workshop on ***Big Data & Hadoop.***<a href="https://github.com/VikasTiwari12/Resume/blob/main/big%20data%201.jpg"><img height="25" src="https://github.com/VikasTiwari12/Resume/blob/main/click-here-logo-button-gif-images-2.gif"></a>
+- Attended workshop on ***Cloud Computing.***<a href="https://github.com/VikasTiwari12/Resume/blob/main/cloud%20computing%201.jpg"><img height="25" src="https://github.com/VikasTiwari12/Resume/blob/main/click-here-logo-button-gif-images-2.gif"></a>
+- Attended workshop on ***Networking.***<a href="https://github.com/VikasTiwari12/Resume/blob/main/networking%201.jpg"><img height="25" src="https://github.com/VikasTiwari12/Resume/blob/main/click-here-logo-button-gif-images-2.gif"></a>
 - Attended the guest lecture on cloud given by **Microsoft's CEO (Mr.Magnus Martensson)**
 - Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.    
      
@@ -104,9 +104,9 @@
 
 <h2 align="center"> ACHIEVEMENTS :trophy: </h2>
 
-- Secured 🥉**Third position** at National Project Completion **"Karmana"** held at KIET College.
 - Coordinator and member of Departmental Hobby club.
-- Coordinator in National Sports Fest ***"Maitree"*** at University Level.
+- Coordinator in National Sports Fest ***"Maitree"*** at University Level.<a href="https://github.com/VikasTiwari12/Resume/blob/main/maitree%201.jpg"><img height="25" src="https://github.com/VikasTiwari12/Resume/blob/main/click-here-logo-button-gif-images-2.gif"></a>
+- Secured 🥉**Third position** at National Project Completion **"Karmana"** held at KIET College.&nbsp;<a href="https://github.com/VikasTiwari12/Resume/blob/main/karmana%201.jpg"><img height="25" src="https://github.com/VikasTiwari12/Resume/blob/main/click-here-logo-button-gif-images-2.gif"></a>
 
 <h3 align="center">  PERSONAL DETAILS 👪 </h3>
 <details close="close">
