@@ -1,10 +1,12 @@
 ### <div align="center"> RESUME </div>
-<img  src="https://github.com/VikasTiwari12/Resume/blob/main/16516.jpg">
+
+<img height="180" src="https://github.com/VikasTiwari12/Resume/blob/main/16516.jpg">
 <p align='right'>
-<a href="https://github.com/VikasTiwari12"><img height="33" src="https://github.com/VikasTiwari12/Resume/blob/main/icons8-github-60.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/VikasTiwari12"><img height="33" src="https://github.com/VikasTiwari12/Resume/blob/main/icons8-github-60.png"></a>&nbsp;
 <a href="https://twitter.com/_waylonwal"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/i_vikastiwari/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="mailto:vikastiwariindi@gmail.com"><img height="33" src="https://github.com/VikasTiwari12/Resume/blob/main/icons8-gmail-48.png"></a>
 </p>
 <h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
 <details close="close">
@@ -140,8 +142,6 @@
 - **Permanent Address🏠:-**&nbsp;  House No:-8/239 Raghuveerpuri gali no:-1,Aligarh  
 - **Correspondence Address🏠:-**&nbsp; same as permanent  
 </details>
-
-
 
 
 
