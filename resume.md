@@ -73,11 +73,11 @@
   <br/>
 
 <p align = "center">
- <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/c-programming.png" height="70" width="70" /></a>
-&nbsp;	&nbsp;	&nbsp;<a href="https://www.w3schools.com/html/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/pngaaa.com-4179044.png" height="70" width="70" /></a>
-&nbsp;	&nbsp; 	&nbsp;<a href="https://www.w3schools.com/css/default.asp" target="_blank" ><img align = "center"  src = "https://github.com/VikasTiwari12/Resume/blob/main/img_4048.png" height="70" width="70" /></a>
-&nbsp;	&nbsp;<a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/java-eps-vector-logo.png" height="70" width="90" /></a>
-&nbsp;<a href="https://www.markdownguide.org/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/432547040_1280x720.jpg" height="70" width="90" /></a>  
+ <a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/c-programming.png" height="60" width="60" /></a>
+&nbsp;	&nbsp;	&nbsp;<a href="https://www.w3schools.com/html/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/pngaaa.com-4179044.png" height="60" width="60" /></a>
+&nbsp;	&nbsp; 	&nbsp;<a href="https://www.w3schools.com/css/default.asp" target="_blank" ><img align = "center"  src = "https://github.com/VikasTiwari12/Resume/blob/main/img_4048.png" height="60" width="60" /></a>
+&nbsp;	&nbsp;<a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/java-eps-vector-logo.png" height="60" width="80" /></a>
+<a href="https://www.markdownguide.org/" target="_blank" ><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/432547040_1280x720.jpg" height="60" width="80" /></a>  
 </p>
 
 </details>
@@ -86,8 +86,8 @@
 <summary> <b> Technology⚙️ </b></summary>
   </br>
 <p align = "center">
-<a href="https://www.javatpoint.com/iot-internet-of-things" target="_blank"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/334e063ae9f247704b37549b4b0f47d1.png" height="80" width="120" /></a>
-&nbsp;<a href="https://github.com/VikasTiwari12/bio"><img align = "center" src="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="95" width="130" /></a>
+<a href="https://www.javatpoint.com/iot-internet-of-things" target="_blank"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/334e063ae9f247704b37549b4b0f47d1.png" height="70" width="110" /></a>
+&nbsp;<a href="https://github.com/VikasTiwari12/bio"><img align = "center" src="https://github.com/VikasTiwari12/Resume/blob/main/unity-masterbrand-black.png" height="85" width="120" /></a>
   </p>
   
 </details>
