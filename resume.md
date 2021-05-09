@@ -51,7 +51,7 @@
     <td>01/2019</td>
     <td>03/2019</td>
     <td>3</td>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/ezgif.com-gif-maker%20(4).gif" height="25" width="70" /></a></td>
+    <td><a href="https://github.com/VikasTiwari12/Resume/edit/main/README.f2.md"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/ezgif.com-gif-maker%20(4).gif" height="25" width="70" /></a></td>
   </tr>
   <tr>
     <td>Infinite Runner 3D</td>
