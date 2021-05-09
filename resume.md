@@ -43,7 +43,7 @@
     <td>01/2018</td>
     <td>05/2018</td>
     <td>Indivisual</td>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/ezgif.com-gif-maker%20(4).gif" height="25" width="70" /></a></td>
+    <td></td>
   </tr>
   <tr>
     <td>Fire Fighting Robo</td>
@@ -59,7 +59,7 @@
     <td>06/2020</td>
     <td>12/2020</td>
     <td>Indivisual</td>
-    <td><a href="https://www.tutorialspoint.com/cprogramming/index.htm#:~:text=C%20programming%20is%20a%20general,most%20widely%20used%20computer%20language/"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/ezgif.com-gif-maker%20(4).gif" height="25" width="70" /></a></td>
+    <td><a href="https://github.com/VikasTiwari12/Resume/blob/main/README.ff.md"><img align = "center" src ="https://github.com/VikasTiwari12/Resume/blob/main/ezgif.com-gif-maker%20(4).gif" height="25" width="70" /></a></td>
   </tr>
  
 </table>
