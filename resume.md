@@ -94,18 +94,19 @@
 
 <h2 align="center"> WORKSHOP/SEMINAR :memo: </h2>
 
- 
-- Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.  
-- Attended workshop on Cloud Computing.  
-- Attended the guest lecture on cloud given by **Microsoft's CEO (Mr.Magnus Martensson)**.    
-- Attended a workshop on Big Data & Hadoop.     
+- Attended a workshop on ***Big Data & Hadoop.***
+- Attended workshop on ***Cloud Computing.***
+- Attended workshop on ***Networking.***
+- Attended the guest lecture on cloud given by **Microsoft's CEO (Mr.Magnus Martensson)**
+- Participated in Kalam Annual Project and Poster Technical Competition KAPP Tec- 2019) at **AKTU Level**.    
+     
  
 
 <h2 align="center"> ACHIEVEMENTS :trophy: </h2>
 
 - Secured 🥉**Third position** at National Project Completion **"Karmana"** held at KIET College.
 - Coordinator and member of Departmental Hobby club.
-- Coordinator in National Sports Fest "Maitree" at University Level.
+- Coordinator in National Sports Fest ***"Maitree"*** at University Level.
 
 <h3 align="center">  PERSONAL DETAILS 👪 </h3>
 <details close="close">
