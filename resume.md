@@ -3,9 +3,9 @@
 <img height="180" src="https://github.com/VikasTiwari12/Resume/blob/main/16516.jpg">
 <p align='right'>
 <a href="https://github.com/VikasTiwari12"><img height="33" src="https://github.com/VikasTiwari12/Resume/blob/main/icons8-github-60.png"></a>&nbsp;
-<a href="https://twitter.com/_waylonwal"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/i_vikastiwari/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/_waylonwal"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
   <a href="mailto:vikastiwariindi@gmail.com"><img height="33" src="https://github.com/VikasTiwari12/Resume/blob/main/icons8-gmail-48.png"></a>
 </p>
 <h2 align="center">  EDUCATIONAL BACKGROUND :mortar_board: </h2>
